@@ -21,7 +21,6 @@ Classical radiators typically require high flow temperatures to effectively heat
 - Enable heat pumps to operate at optimal (lower) temperatures
 - Reduce heating costs while maintaining comfort
 - Improve heat distribution in the room
-- Allow covering radiators without losing efficiency
 
 ### Advanced Monitoring and Control
 
@@ -36,40 +35,26 @@ With four temperature sensors, this controller provides comprehensive monitoring
 ## Hardware Components
 
 ### Required Components
-- **ESP Heating Controller PCB** (Rev 1.0 by 2SimpleEnergy GmbH - design files in `/PCB` folder)
+- **ESP Heating Controller PCB** (Rev 1.0 - design files in `/PCB` folder)
+  - PCBs available from maintainer (contact via PM)
+  - [3D-printable housing available on Thingiverse](https://www.thingiverse.com/thing:7254499)
 - Temperature sensors: DS18B20 (up to 4 sensors supported)
 - **12V PC fans** - Both 3-pin and 4-pin fans supported (120mm or 140mm recommended, up to 6 fans total)
   - 3-pin fans: Standard DC voltage control
   - 4-pin PWM fans: Precise PWM speed control (recommended for quieter operation)
   - Note: All fans operate at the same speed (shared PWM signal)
-- 12V power supply (adequate current rating for all fans)
-- **3D-printed mounting clips** for attaching fans to radiators (see [Mounting Hardware](#mounting-hardware) section)
+- 12V power supply 
+- **[3D-printed mounting clips](https://www.thingiverse.com/thing:5943925)** for attaching fans to radiators 
 
 ### Recommended Fans
 High-quality PC fans operating at low speeds (<500 RPM) are essentially inaudible while providing significant heat output improvement. The controller supports both 3-pin and 4-pin fans.
-
-### Mounting Hardware
-
-To physically mount the fans to your radiators, 3D-printed clips are available:
-
-**[Radiator/Heating Booster Fan Clip on Thingiverse](https://www.thingiverse.com/thing:5943925)**
-
-This design includes:
-- Clips for **120mm × 120mm × 25mm** fans (standard PC fan size)
-- Clips for **80mm fans** for smaller radiators
-- Cable management clips with eyelets
-- Designed to fit between radiator ribs (75mm inner distance, adjustable)
-- Two clips required per fan for secure mounting
-- Push-fit design - clips are inserted from below between the radiator fins
-
-The clips allow fans to be mounted below radiators for optimal airflow, pushing air upward through the radiator fins for maximum heat distribution.
 
 ## PCB Design
 
 ![ESP Heating Controller PCB](PCB/PCB.png)
 *ESP Heating Controller Rev 1.0 by 2SimpleEnergy GmbH*
 
-The `/PCB` folder contains the custom PCB design files for this project. This professional-grade controller board features:
+The `/PCB` folder contains the custom PCB design files for this project. 
 
 ### Hardware Specifications
 
@@ -103,20 +88,25 @@ The `/PCB` folder contains the custom PCB design files for this project. This pr
 **Power Supply:**
 - DC barrel jack connector (DC0) for 12V input
 - Onboard voltage regulation for ESP32 (3.3V)
-- Efficient power management for fans and controller
 
-**Additional Features:**
-- Compact design optimized for DIN rail mounting
-- Professional-grade components for reliability
-- Easy-to-use screw terminals for field wiring
-- Protection circuitry for safe operation
+**PCB Housing:**
+A 3D-printable housing for this PCB is available on Thingiverse for protection and professional mounting:
+👉 **[ESP Heating Controller PCB Housing](https://www.thingiverse.com/thing:7254499)**
+
+**PCB Availability:**
+I have some leftover PCBs ! If you're interested in procuring a board instead of manufacturing it yourself, please contact me via private message on GitHub.
 
 ## Installation
 
 ### Hardware Setup
 
-1. **3D-print the mounting clips**: Download and print the clips from [Thingiverse](https://www.thingiverse.com/thing:5943925) (2 clips per fan)
-2. **Prepare the fans**: Mount the PC fans using the printed clips below your radiators
+1. **3D-print the components**:
+   - Download and print the **[PCB housing](https://www.thingiverse.com/thing:7254499)** for the controller
+   - Download and print the **[fan mounting clips](https://www.thingiverse.com/thing:5943925)** (2 clips per fan)
+2. **Assemble the controller**:
+   - Install the ESP Heating Controller PCB into the housing
+   - Mount the housing to wall or heating
+3. **Prepare the fans**: Mount the PC fans using the printed clips below your radiators
    - Insert clips from below between the radiator ribs
    - Ensure secure fit (designed for 75mm inner distance, adjustable)
    - Use cable ties through the eyelets for cable management
@@ -135,7 +125,7 @@ git clone https://github.com/Radioaktivman/Heating-Fan-Controller.git
 cd Heating-Fan-Controller
 ```
 
-2. **Firmware Option 1: Tasmota (Recommended)**
+2. **Firmware Option: Tasmota**
 
 This controller uses Tasmota firmware for easy configuration and smart home integration.
 
@@ -245,6 +235,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Inspired by similar projects in the home automation community focused on improving heating efficiency and reducing energy costs.
+
+## Roadmap / TODO
+
+### Upcoming Features
+
+- **Thermostat Control Unit**: A thermostat control module will be added in the next update to gain full control of the heating system. This will enable:
+  - Complete closed-loop heating control
+  - Automatic heating system regulation based on room temperature
+  - Enhanced energy efficiency through intelligent heating management
+
 
 ## Contact
 
