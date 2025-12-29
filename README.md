@@ -242,7 +242,7 @@ Inspired by similar projects in the home automation community focused on improvi
 
 - **Thermostat Control Unit**: A thermostat control module will be added in the next update to gain full control of the heating system. This will enable:
   - Complete closed-loop heating control
-  - Automatic heating system regulation based on room temperature
+  - Automatic heating system regulation based on flor and/or air temperature
   - Enhanced energy efficiency through intelligent heating management
 
 
