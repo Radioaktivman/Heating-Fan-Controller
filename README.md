@@ -66,7 +66,7 @@ The clips allow fans to be mounted below radiators for optimal airflow, pushing 
 
 ## PCB Design
 
-![ESP Heating Controller PCB](PCB\PCB.png)
+![ESP Heating Controller PCB](PCB/PCB.png)
 *ESP Heating Controller Rev 1.0 by 2SimpleEnergy GmbH*
 
 The `/PCB` folder contains the custom PCB design files for this project. This professional-grade controller board features:
