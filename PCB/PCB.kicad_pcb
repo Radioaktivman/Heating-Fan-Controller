@@ -223,7 +223,7 @@
 			)
 		)
 		(path "/6a549c90-20a1-4029-a38e-58af61925425")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -601,7 +601,7 @@
 			)
 		)
 		(path "/69b73bf6-efc7-48df-84a3-d28457ec793f")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -827,7 +827,7 @@
 			)
 		)
 		(path "/521adfe6-397c-460b-bb4c-3ea46566fc74")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1009,7 +1009,7 @@
 			)
 		)
 		(path "/530822f6-7eb5-45ab-90fc-57261a79a2a2")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1281,7 +1281,7 @@
 			)
 		)
 		(path "/c3cf4ecc-351c-42af-8e54-97c8bda4d771")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1545,7 +1545,7 @@
 			)
 		)
 		(path "/a0ad640c-3a1a-46f5-968f-5eec987cb4d9")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1748,7 +1748,7 @@
 			)
 		)
 		(path "/aa51c151-9f84-46ca-896c-2a28b02b44f3")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1951,7 +1951,7 @@
 			)
 		)
 		(path "/92ac06f3-105d-4129-b55a-e05c2b757ce0")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2133,7 +2133,7 @@
 			)
 		)
 		(path "/068c8c0d-2e58-45f6-b4f5-25a67dd411bf")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2344,7 +2344,7 @@
 			)
 		)
 		(path "/d153a388-daf6-4b87-bc88-6498517b0ff5")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2573,7 +2573,7 @@
 			)
 		)
 		(path "/9abe13d3-f1b7-4f1b-a12d-2d12cfdd7e02")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2803,7 +2803,7 @@
 			)
 		)
 		(path "/77cd9cc4-210a-4a72-a197-4fde963e2b62")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3067,7 +3067,7 @@
 			)
 		)
 		(path "/e6dc285e-f807-4532-9755-584db1caa350")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3445,7 +3445,7 @@
 			)
 		)
 		(path "/3cc51331-7167-4bbd-a39c-7f308a3ecaab")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3823,7 +3823,7 @@
 			)
 		)
 		(path "/eeadc4d2-3b02-47ca-b3b0-550259a3a38d")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4049,7 +4049,7 @@
 			)
 		)
 		(path "/244323f9-7dab-4185-998c-4a91833a55be")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4275,7 +4275,7 @@
 			)
 		)
 		(path "/ba0a79e8-6c23-421f-ae9e-9914631883d3")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4504,7 +4504,7 @@
 			)
 		)
 		(path "/557ce8b8-eca0-4a07-b48f-c4367fea3e5a")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4686,7 +4686,7 @@
 			)
 		)
 		(path "/099ac77a-eb8a-458c-87a1-fd796f13f2bf")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4889,7 +4889,7 @@
 			)
 		)
 		(path "/58dec0eb-ad71-4a34-a5e0-31012327944c")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5093,7 +5093,7 @@
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/af39b9de-d3a0-4f40-9c3d-1b34f2458efc")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5286,7 +5286,7 @@
 			)
 		)
 		(path "/a6bba308-352f-4e13-8870-906ca65a1edd")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5664,7 +5664,7 @@
 			)
 		)
 		(path "/9db412c6-1307-4eb7-b11f-fd148e69ddf3")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5867,7 +5867,7 @@
 			)
 		)
 		(path "/59879220-b43a-4dec-a676-cdb5a4b0b7d8")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6093,7 +6093,7 @@
 			)
 		)
 		(path "/c6aa9619-a851-4b0f-9972-b44ac79267f1")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6319,7 +6319,7 @@
 			)
 		)
 		(path "/68a1b5f6-ff92-42c1-86f1-d946cac4038c")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6501,7 +6501,7 @@
 			)
 		)
 		(path "/7f7bff5a-f819-4840-bcb1-b4c9071463af")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6738,7 +6738,7 @@
 			)
 		)
 		(path "/fc079c7f-6615-4b7f-b7f7-bac3108905ef")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6967,7 +6967,7 @@
 			)
 		)
 		(path "/52514434-bc8e-462b-8a16-caa767f50fa3")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -7195,7 +7195,7 @@
 			)
 		)
 		(path "/1165c61c-b63c-4bee-8203-9da45c6468d4")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -7424,7 +7424,7 @@
 			)
 		)
 		(path "/fdb175cf-18ec-40a5-bb06-afc4c7f07d25")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7617,7 +7617,7 @@
 			)
 		)
 		(path "/c76619d8-7625-4a5c-9a71-66d11fbd4ec8")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7839,7 +7839,7 @@
 			)
 		)
 		(path "/e9d8b998-4441-46c2-ad87-e2a92a2bfb94")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -8068,7 +8068,7 @@
 			)
 		)
 		(path "/d235b6ca-0af1-4c0f-b53a-8d4ea743c781")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8271,7 +8271,7 @@
 			)
 		)
 		(path "/9e4c2877-fec8-402e-ba8e-ac900d11d56e")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8474,7 +8474,7 @@
 			)
 		)
 		(path "/05965ecf-902f-477c-b291-56eebed00676")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8656,7 +8656,7 @@
 			)
 		)
 		(path "/f693453a-551d-4e01-b544-f5594805f00f")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8928,7 +8928,7 @@
 			)
 		)
 		(path "/e108c926-e8bc-4d1f-bd66-1e923975c914")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -9159,7 +9159,7 @@
 			)
 		)
 		(path "/30d4cf5f-d42a-464c-8291-aa992c6c4e5c")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9341,7 +9341,7 @@
 			)
 		)
 		(path "/9cd1708d-a083-4a88-9426-56dd527679f5")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9998,7 +9998,7 @@
 			)
 		)
 		(path "/fdf80ea3-3cf8-4cd4-a033-1be3a751abc9")
-		(sheetname "Stammblatt")
+		(sheetname "Root")
 		(sheetfile "PCB.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10310,7 +10310,7 @@
 		(layer "Edge.Cuts")
 		(uuid "d6e79396-8a3c-4412-ae5b-942b74ce133a")
 	)
-	(gr_text "${TITLE}, Rev ${REVISION}\n${COMPANY}"
+	(gr_text "${TITLE}, Rev ${REVISION}\n"
 		(at 62 56 0)
 		(layer "F.SilkS")
 		(uuid "c8fe75be-d7b8-4792-8ebb-310163fe5a4f")

@@ -5,10 +5,9 @@
 	(uuid "1461da16-411b-483a-9838-59b06aa45382")
 	(paper "A4")
 	(title_block
-		(title "ESP Heating Fan Controller")
+		(title "Smart Heating Fan Controller")
 		(date "2025-01")
 		(rev "1.0")
-		(company "2SimpleEnergy GmbH")
 	)
 	(lib_symbols
 		(symbol "0603WAJ0103T5E:0603WAJ0103T5E"
