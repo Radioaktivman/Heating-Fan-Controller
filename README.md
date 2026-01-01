@@ -250,8 +250,6 @@ Inspired by similar projects in the home automation community focused on improvi
 
 Project maintained by [@Radioaktivman](https://github.com/Radioaktivman)
 
-Project Link: [https://github.com/Radioaktivman/Heating-Fan-Controller](https://github.com/Radioaktivman/Heating-Fan-Controller)
-
 ---
 
 **Note**: This is an early-stage project. Documentation and features will be expanded as development continues.
