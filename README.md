@@ -39,7 +39,7 @@ With four temperature sensors, this controller provides comprehensive monitoring
   - PCBs available from maintainer (contact via PM)
   - [3D-printable housing available on Thingiverse](https://www.thingiverse.com/thing:7254499)
 - Temperature sensors: DS18B20 (up to 4 sensors supported)
-- **12V PC fans** - Both 3-pin and 4-pin fans supported (120mm or 140mm recommended, up to 6 fans total)
+- **12V PC fans** - Both 3-pin and 4-pin fans  up to 6 fans total
   - 3-pin fans: Standard DC voltage control
   - 4-pin PWM fans: Precise PWM speed control (recommended for quieter operation)
   - Note: All fans operate at the same speed (shared PWM signal)
@@ -249,8 +249,6 @@ Inspired by similar projects in the home automation community focused on improvi
 ## Contact
 
 Project maintained by [@Radioaktivman](https://github.com/Radioaktivman)
-
-Project Link: [https://github.com/Radioaktivman/Heating-Fan-Controller](https://github.com/Radioaktivman/Heating-Fan-Controller)
 
 ---
 
